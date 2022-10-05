@@ -1,0 +1,4 @@
+./final.txt:2012-11-06,2
+./animalsUnique.txt:deer
+./animals.csv:2012-11-05,5
+./animals.csv:2012-11-06,2
